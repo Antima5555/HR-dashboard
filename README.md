@@ -2,9 +2,9 @@
 
 This project analyzes employee attrition using HR data to identify key factors influencing employee turnover and retention.
 
-Tools Used
+------Tools Used
 
-.Python (EDA & data cleaning)
+Python (EDA & data cleaning)
 
 .SQL (business queries & analysis)
 
@@ -12,7 +12,7 @@ Tools Used
 
 .DAX (KPI calculations)
 
-Key Analysis
+------Key Analysis
 
 
 .Overall attrition rate
@@ -24,7 +24,7 @@ Key Analysis
 .Work-life balance and job satisfaction analysis
 
 
-Dashboard KPIs
+------Dashboard KPIs
 
 .Total Employees
 
@@ -35,7 +35,7 @@ Dashboard KPIs
 .Average Monthly Income
 
 
-Key Insights
+------Key Insights
 
 .Higher attrition among early-tenure and younger employees
 
@@ -44,6 +44,6 @@ Key Insights
 .Lower income and satisfaction are strong attrition drivers
 
 
-Outcome
+------Outcome
 
 A single-page Power BI dashboard providing actionable HR insights for data-driven retention strategies.
